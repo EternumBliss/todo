@@ -1,0 +1,21 @@
+.add__toDo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.add__toDo__input{
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    padding-left: 10px;
+}
+
+.add__toDo__button{
+    width: 70px;
+    height: 40px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+

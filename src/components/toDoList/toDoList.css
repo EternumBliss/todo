@@ -1,0 +1,29 @@
+.toDo__list__task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+    column-gap: 20px;
+}
+.toDo__list{
+    padding-left: 0;
+}
+
+.toDo__list__btns{
+    display: flex;
+    column-gap: 10px;
+}
+.toDo__list__btn{
+    width: 70px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.toDo__list__input{
+    padding: 5px 5px 5px 10px;
+    width: auto;
+    resize: none;
+    font-size: 20px;
+    height: auto;
+}
